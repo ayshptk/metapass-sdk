@@ -1,0 +1,22 @@
+{
+  "name": "metapass-sdk",
+  "version": "0.0.1",
+  "description": "metapass sdk",
+  "main": "index.js",
+  "dependencies": {
+    "ethers": "^5.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayshptk/metapass-sdk.git"
+  },
+  "author": "hey@ayush.sh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayshptk/metapass-sdk/issues"
+  },
+  "homepage": "https://github.com/ayshptk/metapass-sdk#readme"
+}
