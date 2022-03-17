@@ -203,8 +203,8 @@ export default function factory(signer) {
     this.contract = new Contract(factoryAddress[chainID], abi, signer);
   };
   this.eventTypes = {
-    Online: "online",
-    IRL: "in-person",
+    Online: "Online",
+    IRL: "In-Person",
   };
 
   function b64EncodeUnicode(arg) {
